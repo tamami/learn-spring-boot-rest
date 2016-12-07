@@ -10,11 +10,6 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" name="org.projectlombok:lombok:1.16.10" level="project" />
-    <orderEntry type="library" name="org.springframework.data:spring-data-jpa:1.10.5.RELEASE" level="project" />
-    <orderEntry type="library" name="org.hibernate.javax.persistence:hibernate-jpa-2.0-api:1.0.1.Final" level="project" />
-    <orderEntry type="library" name="com.fasterxml.jackson.core:jackson-annotations:2.0.0" level="project" />
-    <orderEntry type="library" name="org.springframework.boot:spring-boot-autoconfigure:1.2.6.RELEASE" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: junit:junit:3.8.1" level="project" />
     <orderEntry type="library" name="Maven: org.projectlombok:lombok:1.16.10" level="project" />
     <orderEntry type="library" name="Maven: org.springframework.security.oauth:spring-security-oauth2:2.0.12.RELEASE" level="project" />

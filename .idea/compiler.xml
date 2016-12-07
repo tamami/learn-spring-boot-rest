@@ -22,15 +22,14 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
-        <module name="learn-spring-boot-rest" />
+        <module name="model" />
+        <module name="rest" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-<<<<<<< HEAD
-      <module name="learn-spring-boot-rest" target="1.6" />
-=======
-      <module name="learn-spring-boot-rest" target="8" />
->>>>>>> eff4b2caf29faa47112475066afcc53e977d8cc6
+      <module name="learn-spring-boot-rest" target="1.8" />
+      <module name="model" target="1.8" />
+      <module name="rest" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>

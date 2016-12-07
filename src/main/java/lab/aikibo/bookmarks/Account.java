@@ -12,8 +12,11 @@ import java.util.HashSet;
 /**
  * Created by tamami on 18/11/16.
  */
+<<<<<<< HEAD
+=======
 @Entity
 @Data
+>>>>>>> eff4b2caf29faa47112475066afcc53e977d8cc6
 public class Account {
 
   @OneToMany(mappedBy = "account")

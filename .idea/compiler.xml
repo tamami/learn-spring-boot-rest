@@ -22,12 +22,14 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
+        <module name="hateoas" />
         <module name="model" />
         <module name="rest" />
         <module name="security" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="hateoas" target="1.8" />
       <module name="learn-spring-boot-rest" target="1.8" />
       <module name="model" target="1.8" />
       <module name="rest" target="1.8" />

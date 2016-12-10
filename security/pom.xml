@@ -55,6 +55,11 @@
             <groupId>org.springframework.hateoas</groupId>
             <artifactId>spring-hateoas</artifactId>
         </dependency>
+        <dependency>
+            <groupId>lab.aikibo</groupId>
+            <artifactId>rest</artifactId>
+            <version>1.0-SNAPSHOT</version>
+        </dependency>
     </dependencies>
 
     <build>
